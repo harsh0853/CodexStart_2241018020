@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class toh {
+public class Q9_2165{
 
     public static void solve(int a, int b, int c, int n) {
         if (n == 0) {

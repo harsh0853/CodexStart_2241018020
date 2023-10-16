@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Permu {
+public class Q5_1070 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

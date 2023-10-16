@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LongRep {
+public class Q3_1069 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int count = 1;

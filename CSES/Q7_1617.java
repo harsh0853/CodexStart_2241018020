@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BitString {
+public class Q7_1617 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         long MOD = 1000000007;
