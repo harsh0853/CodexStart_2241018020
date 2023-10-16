@@ -10,3 +10,4 @@ public class MissingNumber {
         System.out.println((n&1)==0 ? (n/2)*(n+1) - sum : n*(n+1)/2 - sum);
     }
 }
+/*Name : Harsh Raj , Reg : 2241018020 , Link : https://cses.fi/problemset/task/1083 */

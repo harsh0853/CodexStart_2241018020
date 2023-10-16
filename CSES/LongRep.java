@@ -18,3 +18,4 @@ public class LongRep {
         System.out.println(Math.max(max , count));
     }
 }
+/*Name : Harsh Raj , Reg : 2241018020 , Link : https://cses.fi/problemset/task/1069 */
